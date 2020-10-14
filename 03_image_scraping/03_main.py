@@ -18,7 +18,7 @@ Obejście problemu z google_images_download
 
 W terminalu:
 pip install tqdm
-git clone https://github.com/ultralytics/google-images-download
+git clone https://github.com/ ultralytics/google-images-download
 cd google-images-download
 python bing_scraper.py --search "horse" --limit 600 --download --chromedriver C:\Apps\chromedriver.exe
 
